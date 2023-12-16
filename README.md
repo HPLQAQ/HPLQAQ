@@ -11,7 +11,7 @@
 
 - 🌱 I was an enthusiastic OIer **Candidate Master at Codeforces**
 
-- 📄 Personal Homepage [henryli](https://henryli.tech/)
+- 📄 Personal Homepage [hplqaq.github.io](https://hplqaq.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 
